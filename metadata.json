@@ -1,0 +1,6 @@
+{
+  "name": "Stock Maintenance System",
+  "description": "A web-based MERN inventory management system for tracking products, stock-in/stock-out transactions, low-stock alerts, suppliers, purchase orders, and inventory reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
